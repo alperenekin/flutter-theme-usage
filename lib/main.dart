@@ -3,7 +3,7 @@ import 'package:flutter_theme_sage/model/enum/sharedpref_keys.dart';
 import 'package:flutter_theme_sage/model/theme_model.dart';
 import 'package:flutter_theme_sage/preferences/shared_pref_helper.dart';
 import 'package:flutter_theme_sage/preferences/shared_preferences_helper.dart';
-import 'file:///C:/Users/Alperen/IdeaProjects/flutter_theme_usage/lib/screen/theme_selection_page.dart';
+import 'package:flutter_theme_usage/lib/screen/theme_selection_page.dart';
 import 'package:provider/provider.dart';
 
 void main() async{
